@@ -44,4 +44,4 @@ npm start
 3. mongoose
 
 ## Author
-[Kinza Ali](https://github.com/Kinza=Ali)
+[Kinza Ali](https://github.com/Kinza-Ali)
